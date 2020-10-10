@@ -1,0 +1,10 @@
+spring.jpa.hibernate.ddl-auto=update
+spring.datasource.url=jdbc:mariadb://localhost:3306/WeChatManage
+spring.datasource.username= #databases username
+spring.datasource.password= #databases password
+spring.datasource.driver-class-name=org.mariadb.jdbc.Driver
+spring.security.user.name=user
+spring.security.user.password=password
+wechat.appid= #wechat appid
+wechat.secret= #wechat secret
+wechat.token= #wechat Token(customize)
